@@ -1,2 +1,2 @@
-# Desarrollo-Web-Entorno-Servidor
+# Desarrollo-web-entorno-servidor
 PHP, HTML, CSS, MySQL
