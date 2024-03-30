@@ -1,2 +1,2 @@
 # Desarrollo-web-entorno-servidor
-PHP, HTML, CSS, MySQL
+PHP, HTML, CSS, SQL
